@@ -1,15 +1,30 @@
-# Lidiun Framework
-Lidiun Framework é um framework diferente de tudo que você já viu!<br><br>
+# Lidiun Framework v5
+A PHP Framework light and siple for simple applications.  
+![PHP Version](https://img.shields.io/badge/PHP-7.3-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
 
-======
-Acesso o site e leia mais: [http://www.lidiun.com.br](http://www.lidiun.com.br)<br>
-Leia a documentação em: [http://www.lidiun.com.br/documentation/](http://www.lidiun.com.br/documentation/)<br>
-Tenha uma visão geral aqui:[http://dyonenedi.github.io/lidiun-framework/](http://dyonenedi.github.io/lidiun-framework/)<br><br>
+## Version Updates 
+- Created Date: 12/30/2012  
+- Changes from last version: 
+**A new V5 Standalone: The framework does't carry the applciation anymore. Apps have to be in it's own repository**.  
+![PHP Version](https://img.shields.io/badge/Lidiun--V5-red) ![=>](https://img.shields.io/badge/%3D%3E-gray) ![PHP Version](https://img.shields.io/badge/Lidiun--V5-green)
 
-# Relacionados
-- Baixe o core do framework (Precisa conhecer o Lidiun): [Clique aqui](https://github.com/dyonenedi/lidiun-framework)<br>
-- Baixe uma aplicação default para o framework (Precisa conhecer o Lidiun): [Clique aqui](http://www.lidiun.com.br/downloading/app/)<br>
-- Baixe plugins para o framework (Precisa conhecer o Lidiun): [Clique aqui](https://github.com/dyonenedi/lidiun-plugin)<br>
-- Baixe um pacote com todas as opções acima (Qualquer desenvolvedor): [Clique aqui](http://www.lidiun.com.br/downloading/package/)<br>
+## About
+The **Lidiun Framework** is a PHP framework created to 
+help get easy to make php applications. It's has other versions shows it's developing in the past years.  
+![License](https://img.shields.io/badge/Origin-Brazil-green)
 
+## Install
+```bash
+git clone https://github.com/dyonenedi/lidiun_framework_v5.git
+cd lidiun-v5
+```
 
+## Owner
+- [Dyon Enedi](https://github.com/dyonenedi)
+
+## Contribuidores
+- Gabriela Ayres
+
+## License
+This project is licensed under the MIT license - see the [LICENSE](LICENSE) file for more details.
