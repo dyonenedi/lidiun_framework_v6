@@ -6,7 +6,7 @@ A PHP Framework light and siple for simple applications.
 ## Version Updates 
 - Created Date: 12/30/2012  
 - Changes from last version: 
-**A new V5 Standalone: The framework does't carry the applciation anymore. Apps have to be in it's own repository**.  
+**A new standalone version: The framework does't carry the applciation anymore. Apps have to be in it's own repository**.  
 ![PHP Version](https://img.shields.io/badge/Lidiun--V5-red) ![=>](https://img.shields.io/badge/%3D%3E-gray) ![PHP Version](https://img.shields.io/badge/Lidiun--V6-green)
 
 ## About
