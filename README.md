@@ -1,4 +1,4 @@
-# Lidiun Framework v5
+# Lidiun Framework v6
 A PHP Framework light and siple for simple applications.  
 ![PHP Version](https://img.shields.io/badge/PHP-7.3-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
@@ -7,7 +7,7 @@ A PHP Framework light and siple for simple applications.
 - Created Date: 12/30/2012  
 - Changes from last version: 
 **A new V5 Standalone: The framework does't carry the applciation anymore. Apps have to be in it's own repository**.  
-![PHP Version](https://img.shields.io/badge/Lidiun--V5-red) ![=>](https://img.shields.io/badge/%3D%3E-gray) ![PHP Version](https://img.shields.io/badge/Lidiun--V5-green)
+![PHP Version](https://img.shields.io/badge/Lidiun--V5-red) ![=>](https://img.shields.io/badge/%3D%3E-gray) ![PHP Version](https://img.shields.io/badge/Lidiun--V6-green)
 
 ## About
 The **Lidiun Framework** is a PHP framework created to 
@@ -16,8 +16,8 @@ help get easy to make php applications. It's has other versions shows it's devel
 
 ## Install
 ```bash
-git clone https://github.com/dyonenedi/lidiun_framework_v5.git
-cd lidiun-v5
+git clone https://github.com/dyonenedi/lidiun_framework_v6.git
+cd lidiun_framework_v6
 ```
 
 ## Owner
